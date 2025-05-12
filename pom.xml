@@ -9,6 +9,7 @@
     <modules>
         <module>backend</module>
         <module>client</module>
+        <module>application</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
